@@ -1,6 +1,5 @@
 # Data Scientist
 
-
 #### Technical Skills: Data analytics using statistics and regression , Python for Data Cleaning & Preprocessing (Pandas, NumPy), SQL, Azure (Databricks, Data Factory, Synapse, ML, OpenAI), MATLAB, Power BI, Tableau, SSRS/SSIS, SQL Server, Azure SQL, NLP, Time Series, Regression, Classification ,AWS (SageMaker, Bedrock)
 
 ## Education
@@ -22,17 +21,10 @@
 - Developed structured lesson plans and course materials, improving learner engagement and course completion rates.  
 
 **Data Engineer, Constellation Energy Corporation (Remote) (_Aug 2022 – May 2023_)**  
-- Implemented analytics for churn and demand forecasting using Python, Azure ML, and time-series regression, achieving **~85% model accuracy** for retention strategy.  
-- Built executive-facing Tableau dashboards to visualize churn risk, behavior patterns, and revenue impact by region.  
-- Performed statistical modeling and correlation analysis in R to validate trends and enhance insight quality.  
-- Integrated **Azure OpenAI** for multilingual data summarization, cutting manual effort by **~40%**.  
-- Contributed to scalable analytics architecture using **Azure Synapse** and **Databricks** for automated reporting and near-real-time BI.
+Led data science modeling for churn and demand forecasting with ~85% accuracy, delivering scalable analytics solutions using Azure, Databricks, and Tableau.
 
 **Azure Integration Lead, Mayo Clinic (Remote) (_Apr 2022 – Jun 2022_)**  
-- Developed supervised ML models in **R** to predict chronic disease risk with **~92% accuracy**, integrating into EHR workflows for clinical decision support.  
-- Conducted statistical correlation analysis to surface key predictors and drive early-intervention strategies.  
-- Built real-time **Power BI** and **Tableau** dashboards for non-technical stakeholders.  
-- Migrated legacy ETL to **PySpark** + **Azure Synapse**, reducing data latency by **~50%**; enforced HIPAA compliance with RBAC and automated CI/CD.
+Developed supervised ML models in R (92% accuracy) and modernized ETL with PySpark/Synapse, delivering real-time clinical insights through Tableau under HIPAA compliance.
 
 **Azure Developer — Healthcare / BFSI / Energy & Utilities / Public Sector (Summerized previous years) (_Jan 2010 – Apr 2022_)**  
 - Led modernization of legacy systems via **Azure-based** solutions across domains (healthcare, banking, utilities, public sector).  
