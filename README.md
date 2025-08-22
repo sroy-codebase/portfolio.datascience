@@ -21,13 +21,13 @@
 - Developed structured lesson plans and course materials, improving learner engagement and course completion rates.  
 
 **Data Engineer, Constellation Energy Corporation (Remote) (_Aug 2022 – May 2023_)**  
-Led data science modeling for churn and demand forecasting with ~85% accuracy, delivering scalable analytics solutions using Azure, Databricks, and Tableau.
+Led data science modeling for churn and demand **forecasting** with ~85% accuracy, delivering scalable analytics solutions using **Azure, Databricks**, and Tableau.
 
 **Azure Integration Lead, Mayo Clinic (Remote) (_Apr 2022 – Jun 2022_)**  
-Developed supervised ML models in R (92% accuracy) and modernized ETL with PySpark/Synapse, delivering real-time clinical insights through Tableau under HIPAA compliance.
+Developed supervised **ML models** in R (92% accuracy) and modernized ETL with PySpark/Synapse, delivering real-time clinical insights through **Tableau** under HIPAA compliance.
 
 **Azure Developer — Healthcare / BFSI / Energy & Utilities / Public Sector (Summerized previous years) (_Jan 2010 – Apr 2022_)**  
-- Led modernization of legacy systems via **Azure-based** solutions across domains (healthcare, banking, utilities, public sector).  
+- Led modernization of legacy systems via **Azure-based** solutions(APIM,Logic Apps, Azure functions etc) across domains (healthcare, banking, utilities, public sector).  
 - Designed scalable data architectures with **Azure Data Factory**, **Azure SQL**, and **Power BI** to enable data-driven operations.  
 - Integrated APIs, re-engineered pipelines, and aligned implementations with evolving business KPIs for measurable impact.
 
@@ -39,7 +39,7 @@ Built forecasting in **R** using time-series decomposition, ADF testing, **ARIMA
 Modeled claim probability on **7,232** customer records using **logistic regression** with oversampling to address class imbalance. Evaluated via confusion matrix, **ROC/AUC**, and produced calibrated probability scores for new customers.
 
 
-## Additional Trainings & Research  in Data Science : 
+## Additional Trainings & Research  in Data Science: 
 - **BCG Data Science** - Job Simulation (*May 2025*)  — Completed BCG Data Science Job Simulation (Aug 2025) — performed customer churn analysis using Python (Pandas,    NumPy), built a random forest model (50% recall), and delivered actionable insights via executive summary.
 
 - **Citi ICG Technology** — Job Simulation (*Apr 2025*) Completed Citi ICG Technology Data Science Job Simulation (Apr 2025) — analyzed loan management and stock market risk, designed UML workflows, researched ML credit risk models, and built real-time risk visualizations using Python (Matplotlib).
