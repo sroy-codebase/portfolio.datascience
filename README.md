@@ -39,6 +39,7 @@ Built forecasting in **R** using time-series decomposition, ADF testing, **ARIMA
 Modeled claim probability on **7,232** customer records using **logistic regression** with oversampling to address class imbalance. Evaluated via confusion matrix, **ROC/AUC**, and produced calibrated probability scores for new customers.
 
 
-## Additional Training Data Science
-- **BCG Data Science** — Job Simulation (*May 2025*)  
-- **Citi ICG Technology** — Software Development Job Simulation (*Apr 2025*)
+## Additional Trainings & Research  in Data Science : 
+- **BCG Data Science** - Job Simulation (*May 2025*)  — Completed BCG Data Science Job Simulation (Aug 2025) — performed customer churn analysis using Python (Pandas,    NumPy), built a random forest model (50% recall), and delivered actionable insights via executive summary.
+
+- **Citi ICG Technology** — Job Simulation (*Apr 2025*) Completed Citi ICG Technology Data Science Job Simulation (Apr 2025) — analyzed loan management and stock market risk, designed UML workflows, researched ML credit risk models, and built real-time risk visualizations using Python (Matplotlib).
