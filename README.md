@@ -3,7 +3,7 @@
 *Technical Skills:* *Data analytics* using statistics and regression , Python for *Data Cleaning & Preprocessing* (Pandas, NumPy), SQL, *Azure Databricks*, *Azure Data Factory*, PySpark ,Synapse, ML, OpenAI, Matlab plot, Power BI, Tableau, SSRS/SSIS, SQL Server, *Azure SQL*, *NLP*, Time Series analysis, Regressions, Classification ,AWS (SageMaker, Bedrock)
 
 ## Education
-- **Masters., Data Science & Analytics** | Eastern University — *Anticipated June 2026*
+- **Masters., Data Science & Analytics** | Eastern University — *Anticipated Dec 2026*
 - **Bachelor of Technology** | WBUT ** — * June 2008*
 
 ### Certifications
