@@ -12,6 +12,9 @@
 - **Microsoft AZ-900 (Azure Fundamentals)** — *Sep 2023*
 
 ## Work Experience
+**Peer Tutor in Eastern University (Contract) Aug 2025- Present** 
+Mentored undergraduate and graduate students through peer tutoring sessions in mathematics, statistics, programming, cloud computing, and AI/ML, helping them strengthen problem-solving skills and achieve academic goals.
+
 **Technology Instructor, Udemy (_Dec 2023 – Present_)**  
 - Design and deliver hands-on courses in IoT, Robotics, AI/ML, Python, AWS, and Reporting for learners across levels.  
 - Emphasize practical, real-world projects to simplify complex concepts and drive job-ready skills.
