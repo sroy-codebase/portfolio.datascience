@@ -1,4 +1,4 @@
-# Data Engineer 
+# Data Engineer
 
 *Technical Skills:* *Data analytics* using statistics and regression , Python for *Data Cleaning & Preprocessing* (Pandas, NumPy), SQL, *Azure Databricks*, *Azure Data Factory*, PySpark ,Synapse, ML, OpenAI, Matlab plot, Power BI, Tableau, SSRS/SSIS, SQL Server, *Azure SQL*, *NLP*, Time Series analysis, Regressions, Classification ,AWS (SageMaker, Bedrock)
 
