@@ -2,6 +2,10 @@
 
 *Technical Skills:* *Data analytics* using statistics and regression , Python for *Data Cleaning & Preprocessing* (Pandas, NumPy), SQL, PostgresQL, *Azure Databricks*, *Azure Data Factory*, PySpark ,Synapse, ML, OpenAI, Matlab plot, Power BI, Tableau, SSRS/SSIS, SQL Server, *Azure SQL*, *NLP*, Time Series analysis, Regressions, Classification ,AWS (SageMaker, Bedrock) 
 
+# ChatGPT Codex Challenge (2026): 
+Participated in the ChatGPT Codex Challenge and developed VibeMatch AI, an AI-powered matchmaking platform that uses compatibility scoring, recommendation algorithms, and predictive analytics to generate personalized match recommendations. Leveraged ChatGPT Codex and AI-assisted no-code/low-code development practices to rapidly convert business requirements into a deployed application, reducing manual coding effort and accelerating product delivery.
+*URL: https://sroy-codebase.github.io/projects/vibematchAI/
+
 ## Education
 - **Masters., Data Science & Analytics** | Eastern University — *Anticipated Dec 2026*
 - **Bachelor of Technology** | WBUT ** — * June 2008*
