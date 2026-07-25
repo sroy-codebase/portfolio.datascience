@@ -2,6 +2,11 @@
 
 *Technical Skills:* *Data analytics* using statistics and regression , Python for *Data Cleaning & Preprocessing* (Pandas, NumPy), SQL, PostgresQL, *Azure Databricks*, *Azure Data Factory*, PySpark ,Synapse, ML, OpenAI, Matlab plot, Power BI, Tableau, SSRS/SSIS, SQL Server, *Azure SQL*, *NLP*, Time Series analysis, Regressions, Classification ,AWS (SageMaker, Bedrock) 
 
+# IBM Bob Agentic Ai App building Challange (2026): 
+Participated in the IBM Bob Agentic AI App Building Challenge and developed GamePlan AI, an AI-powered football strategy dashboard focused on player analysis, squad generation, formation planning, and team success prediction. Used IBM Bob as an agentic AI development assistant to translate project requirements into reusable application components, troubleshoot implementation issues, and accelerate the development workflow. Integrated football analytics, machine-learning concepts, explainable predictions, and an interactive user experience using Python, Streamlit, React, Carbon Design, and scikit-learn.product delivery.
+
+*URL: https://sroy-codebase.github.io/projects/gameplanAI/
+
 # ChatGPT Codex Challenge (2026): 
 Participated in the ChatGPT Codex Challenge and developed VibeMatch AI, an AI-powered matchmaking platform that uses compatibility scoring, recommendation algorithms, and predictive analytics to generate personalized match recommendations. Leveraged ChatGPT Codex and AI-assisted no-code/low-code development practices to rapidly convert business requirements into a deployed application, reducing manual coding effort and accelerating product delivery.
 *URL: https://sroy-codebase.github.io/projects/vibematchAI/
